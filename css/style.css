@@ -1,0 +1,41 @@
+*{
+	margin=0;
+	padding=0;
+	box-sizing:border-box;
+}
+#di1{
+	
+	color:orange;
+}
+.h{
+	color:green;
+	font-size:50px;
+}
+.p1{
+	color:silver;
+	font-size:30px;
+}
+.p2{
+	color:green;
+	font-size:30px;
+}
+#di2 p,h1{
+	
+	color:pink;
+}
+#di3 p{
+	color:blue;
+	font-size:50px;
+}
+#di4>p{
+	color:maroon;
+	font-size:70px;
+}
+#di5+p{
+	color:cyan;
+	font-size:80px;
+}
+#di6~p{
+	color:purple;
+	font-size:50px;
+}
